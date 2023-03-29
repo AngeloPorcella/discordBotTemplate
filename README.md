@@ -1,5 +1,5 @@
 # DiscordBotTemplate
-Want to make a custom Discord Bot? Don't know where to start? Here's some code handed directly to you!
+
 
 There is some minor funcionality that should be easy to implement based on this skeleton, this includes:
 
