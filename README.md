@@ -12,5 +12,3 @@ First, follow this guide to get your token for the bot (This will be pasted in t
 Next pip install the imports listed in the file.
 
 Finally install FFMPEG if you want to utilize the voice chat/mp3 playing capabilities.
-
-And you should be off to the races!
